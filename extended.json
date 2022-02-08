@@ -2,5 +2,9 @@
     "info": {
         "url_png_icon_64x64": "https://github.com/buvven/buvven/raw/main/64.png",
         "url_png_logo": "https://github.com/buvven/buvven/raw/main/full.png",
+        "social": {
+            "twitter_handle": "I3aldur",
+            "telegram_handle": "I3aldur"
+        }
     }
 }
